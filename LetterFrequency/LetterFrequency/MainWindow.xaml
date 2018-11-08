@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:LetterFrequency"
         mc:Ignorable="d"
         Title="Letter Frequencies - Hugo Timmerman - 2018" Height="450" Width="800" Background="WhiteSmoke" Icon="WindowIcon.png">
-    <Grid>
+    <Grid Margin="10">
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
             <ColumnDefinition Width="350px"/>
